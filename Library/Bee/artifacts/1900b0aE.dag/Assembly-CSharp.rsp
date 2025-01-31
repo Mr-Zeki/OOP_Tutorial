@@ -119,8 +119,10 @@
 -define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:DOTWEEN
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Plugins/Demigiant/DOTween/DOTween.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.55f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.55f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.55f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
@@ -331,6 +333,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.55f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
 -r:"Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-firstpass.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ref.dll"
@@ -365,6 +368,11 @@
 "Assets/Scripts/Composition Over Inheritance/PrefabSetup.cs"
 "Assets/Scripts/Composition Over Inheritance/SoundEmitter.cs"
 "Assets/Scripts/Composition Over Inheritance/WeaponBase.cs"
+"Assets/Scripts/Design Patterns/Command/ICommand.cs"
+"Assets/Scripts/Design Patterns/Command/InputManager.cs"
+"Assets/Scripts/Design Patterns/Command/MoveCommand.cs"
+"Assets/Scripts/Design Patterns/Command/PlayerMovement.cs"
+"Assets/Scripts/Design Patterns/Command/_commandInvoker.cs"
 "Assets/Scripts/Design Patterns/Factory/Capsule.cs"
 "Assets/Scripts/Design Patterns/Factory/CapsuleFactory.cs"
 "Assets/Scripts/Design Patterns/Factory/Cube.cs"

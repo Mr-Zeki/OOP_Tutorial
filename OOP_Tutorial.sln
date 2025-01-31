@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Performance.Profile-A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.InputSystem.TestFramework", "Unity.InputSystem.TestFramework.csproj", "{c8b58a50-3cfa-b00e-df3c-f8f9fbf37c85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{710ef463-5fd9-b282-74f1-05e9f64d43df}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.VSCode.Editor", "Unity.VSCode.Editor.csproj", "{cdba55e7-6180-546c-eeb6-042699556d96}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection", "Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj", "{c5d95102-33ec-f25a-cda1-c9f0b38dbc81}"
@@ -126,6 +128,8 @@ Global
 		{a3ece931-2ae9-3c4d-e2d3-6c42cb7cc2b9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{c8b58a50-3cfa-b00e-df3c-f8f9fbf37c85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{c8b58a50-3cfa-b00e-df3c-f8f9fbf37c85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710ef463-5fd9-b282-74f1-05e9f64d43df}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710ef463-5fd9-b282-74f1-05e9f64d43df}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{cdba55e7-6180-546c-eeb6-042699556d96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{cdba55e7-6180-546c-eeb6-042699556d96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{c5d95102-33ec-f25a-cda1-c9f0b38dbc81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
