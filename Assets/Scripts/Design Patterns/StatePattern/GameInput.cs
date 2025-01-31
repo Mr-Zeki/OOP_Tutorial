@@ -24,6 +24,7 @@ public class GameInput : MonoBehaviour
         }
     }
 
+    // ReSharper disable Unity.PerformanceAnalysis
     public Vector2 GetMovementVectorNormalized()
     {
         Vector2 inputVector = playerInputs.Player.Move.ReadValue<Vector2>();

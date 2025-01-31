@@ -50,8 +50,10 @@
     <Compile Include="Assets\Scripts\Encapsulation\GameManager4.cs" />
     <Compile Include="Assets\Inputs\PlayerInputActions.cs" />
     <Compile Include="Assets\Scripts\Composition Over Inheritance\SoundEmitter.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\Observer\AuidoManager.cs" />
     <Compile Include="Assets\Scripts\Polymorphism\Goblin.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\CubeFactory.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\Observer\PlayerInteractions.cs" />
     <Compile Include="Assets\Scripts\Polymorphism\Dragon.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\FlyWeight\BallStateSO.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\CapsuleFactory.cs" />
@@ -62,8 +64,6 @@
     <Compile Include="Assets\Scripts\Design Patterns\Factory\ShapeManager.cs" />
     <Compile Include="Assets\Scripts\ClassesAndObjects\Player.cs" />
     <Compile Include="Assets\Scripts\ClassesAndObjects\GameManager.cs" />
-    <Compile Include="Assets\Scripts\Design Patterns\Observer\ScoreManager.cs" />
-    <Compile Include="Assets\Scripts\Design Patterns\Observer\UIManager.cs" />
     <Compile Include="Assets\Scripts\Encapsulation\Player2.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\Cylinder.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\FlyWeight\Ball.cs" />
@@ -80,6 +80,7 @@
     <Compile Include="Assets\Scripts\Design Patterns\FlyWeight\Spawner.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\CylinderFactory.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\StatePattern\PlayerController1.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\Observer\CoinUI.cs" />
     <Compile Include="Assets\Scripts\Inheritance\Warrior.cs" />
     <Compile Include="Assets\Scripts\Polymorphism\Enemy.cs" />
     <Compile Include="Assets\Scripts\Polymorphism\GameManager3.cs" />
