@@ -1,2 +1,2 @@
 "#OOP_Tutorial" 
-"Bu proje unity Åzerinde OOP (Nesne Yînelimli Programlama) ve dißer prensiplerin temellerini îßrenmek iáin hazçrlanmçütçr." 
+"This project is designed to learn the basics of OOP (Object Oriented Programming) and other principles on unity."
