@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|c:\\users\\zeki4\\desktop\\unity_projects\\oop_tutorial\\assets\\scripts\\design patterns\\factory\\shapemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design patterns\\factory\\shapemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\assets\\scripts\\design patterns\\factory\\cubefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design patterns\\factory\\cubefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\assets\\scripts\\design patterns\\factory\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design patterns\\factory\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\assets\\scripts\\design patterns\\factory\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design patterns\\factory\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\assets\\scripts\\design patterns\\factory\\ishapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design patterns\\factory\\ishapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\assets\\scripts\\design patterns\\factory\\capsulefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design patterns\\factory\\capsulefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\assets\\scripts\\design patterns\\factory\\cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design patterns\\factory\\cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|c:\\users\\zeki4\\desktop\\unity_projects\\oop_tutorial\\assets\\scripts\\design patterns\\factory\\cylinderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design patterns\\factory\\cylinderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\assets\\scripts\\design patterns\\factory\\capsule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design patterns\\factory\\capsule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\assets\\scripts\\design patterns\\flyweight\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC546AFA-C9A6-7BE6-3850-1A92E7B0EC05}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\design patterns\\flyweight\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShapeManager.cs",
+              "DocumentMoniker": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\ShapeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Design Patterns\\Factory\\ShapeManager.cs",
+              "ToolTip": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\ShapeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Design Patterns\\Factory\\ShapeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:31:01.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CylinderFactory.cs",
+              "DocumentMoniker": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\CylinderFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Design Patterns\\Factory\\CylinderFactory.cs",
+              "ToolTip": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\CylinderFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Design Patterns\\Factory\\CylinderFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:23:55.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cylinder.cs",
+              "DocumentMoniker": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\Cylinder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Design Patterns\\Factory\\Cylinder.cs",
+              "ToolTip": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\Cylinder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Design Patterns\\Factory\\Cylinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:19:49.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CapsuleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\CapsuleFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Design Patterns\\Factory\\CapsuleFactory.cs",
+              "ToolTip": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\CapsuleFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Design Patterns\\Factory\\CapsuleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:22:24.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Capsule.cs",
+              "DocumentMoniker": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\Capsule.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Design Patterns\\Factory\\Capsule.cs",
+              "ToolTip": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\Capsule.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Design Patterns\\Factory\\Capsule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:19:24.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CubeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\CubeFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Design Patterns\\Factory\\CubeFactory.cs",
+              "ToolTip": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\CubeFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Design Patterns\\Factory\\CubeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:10:08.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\Cube.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Design Patterns\\Factory\\Cube.cs",
+              "ToolTip": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\Cube.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Design Patterns\\Factory\\Cube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:05:57.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\Factory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Design Patterns\\Factory\\Factory.cs",
+              "ToolTip": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\Factory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Design Patterns\\Factory\\Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:55:37.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShapes.cs",
+              "DocumentMoniker": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\IShapes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Design Patterns\\Factory\\IShapes.cs",
+              "ToolTip": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\Factory\\IShapes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Design Patterns\\Factory\\IShapes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:51:53.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\FlyWeight\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Design Patterns\\FlyWeight\\Spawner.cs",
+              "ToolTip": "C:\\Users\\zeki4\\Desktop\\Unity_Projects\\OOP_Tutorial\\Assets\\Scripts\\Design Patterns\\FlyWeight\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Design Patterns\\FlyWeight\\Spawner.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:12:28.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
