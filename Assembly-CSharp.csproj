@@ -48,9 +48,11 @@
     <Compile Include="Assets\Scripts\Inheritance\GameManager2.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\StatePattern\JumpingState.cs" />
     <Compile Include="Assets\Scripts\Encapsulation\GameManager4.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\Strategy\AbilityStrategy.cs" />
     <Compile Include="Assets\Inputs\PlayerInputActions.cs" />
     <Compile Include="Assets\Scripts\Composition Over Inheritance\SoundEmitter.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Observer\AuidoManager.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\Strategy\Wizard.cs" />
     <Compile Include="Assets\Scripts\Polymorphism\Goblin.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\CubeFactory.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Observer\PlayerInteractions.cs" />
@@ -61,14 +63,17 @@
     <Compile Include="Assets\Scripts\Design Patterns\StatePattern\GameInput.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Singleton\BackGroundMusic.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\StatePattern\IdleState.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\Strategy\MagicSpeelStrategy.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\ShapeManager.cs" />
     <Compile Include="Assets\Scripts\ClassesAndObjects\Player.cs" />
     <Compile Include="Assets\Scripts\ClassesAndObjects\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\Strategy\RockSpeelStrategy.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Command\InputManager.cs" />
     <Compile Include="Assets\Scripts\Encapsulation\Player2.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\Cylinder.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\FlyWeight\Ball.cs" />
     <Compile Include="Assets\Scripts\Composition Over Inheritance\DamageDealer.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\Strategy\ExtensionMethods.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\StatePattern\IState.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\StatePattern\WalkingState.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\Capsule.cs" />
@@ -80,6 +85,7 @@
     <Compile Include="Assets\Scripts\Design Patterns\Factory\Cube.cs" />
     <Compile Include="Assets\Scripts\Inheritance\Mage.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\FlyWeight\Spawner.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\Strategy\SpellsUI.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Command\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\CylinderFactory.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\StatePattern\PlayerController1.cs" />
@@ -89,6 +95,7 @@
     <Compile Include="Assets\Scripts\Polymorphism\Enemy.cs" />
     <Compile Include="Assets\Scripts\Polymorphism\GameManager3.cs" />
     <Compile Include="Assets\Scripts\Inheritance\BasePlayer.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\Strategy\VineSpeelStrategy.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Command\ICommand.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\Factory.cs" />
     <None Include="Library\PackageCache\com.unity.settings-manager@2.0.1\package.json" />
@@ -395,11 +402,11 @@
     <Reference Include="ReportGeneratorMerged">
       <HintPath>C:\Users\zeki4\Desktop\Unity_Projects\OOP_Tutorial\Library\PackageCache\com.unity.testtools.codecoverage@1.2.6\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>C:\Users\zeki4\Desktop\Unity_Projects\OOP_Tutorial\Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-    </Reference>
     <Reference Include="DOTween">
       <HintPath>C:\Users\zeki4\Desktop\Unity_Projects\OOP_Tutorial\Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+      <HintPath>C:\Users\zeki4\Desktop\Unity_Projects\OOP_Tutorial\Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.55f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
