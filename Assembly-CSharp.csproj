@@ -59,13 +59,16 @@
     <Compile Include="Assets\Scripts\Polymorphism\Dragon.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\FlyWeight\BallStateSO.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\CapsuleFactory.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\MVC_MVP\ButtonsUI.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Singleton\StartGame.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\StatePattern\GameInput.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Singleton\BackGroundMusic.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\StatePattern\IdleState.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Strategy\MagicSpeelStrategy.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\MVC_MVP\PlayerM.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\ShapeManager.cs" />
     <Compile Include="Assets\Scripts\ClassesAndObjects\Player.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\MVC_MVP\Health.cs" />
     <Compile Include="Assets\Scripts\ClassesAndObjects\GameManager.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Strategy\RockSpeelStrategy.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Command\InputManager.cs" />
@@ -94,6 +97,7 @@
     <Compile Include="Assets\Scripts\Inheritance\Warrior.cs" />
     <Compile Include="Assets\Scripts\Polymorphism\Enemy.cs" />
     <Compile Include="Assets\Scripts\Polymorphism\GameManager3.cs" />
+    <Compile Include="Assets\Scripts\Design Patterns\MVC_MVP\HealthPresenter.cs" />
     <Compile Include="Assets\Scripts\Inheritance\BasePlayer.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Strategy\VineSpeelStrategy.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Command\ICommand.cs" />
