@@ -334,6 +334,7 @@
 -r:"Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-firstpass.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ref.dll"
@@ -418,6 +419,8 @@
 "Assets/Scripts/Polymorphism/Enemy.cs"
 "Assets/Scripts/Polymorphism/GameManager3.cs"
 "Assets/Scripts/Polymorphism/Goblin.cs"
+"Assets/Scripts/ScriptableObjects/CardSO.cs"
+"Assets/Scripts/ScriptableObjects/ShowCards.cs"
 -langversion:9.0
 /deterministic
 /optimize+

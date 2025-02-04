@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\Design Patterns\Strategy\MagicSpeelStrategy.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\MVC_MVP\PlayerM.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\ShapeManager.cs" />
+    <Compile Include="Assets\Scripts\ScriptableObjects\CardSO.cs" />
     <Compile Include="Assets\Scripts\ClassesAndObjects\Player.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\MVC_MVP\Health.cs" />
     <Compile Include="Assets\Scripts\ClassesAndObjects\GameManager.cs" />
@@ -78,6 +79,7 @@
     <Compile Include="Assets\Scripts\Composition Over Inheritance\DamageDealer.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Strategy\ExtensionMethods.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\StatePattern\IState.cs" />
+    <Compile Include="Assets\Scripts\ScriptableObjects\ShowCards.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\StatePattern\WalkingState.cs" />
     <Compile Include="Assets\Scripts\Design Patterns\Factory\Capsule.cs" />
     <Compile Include="Assets\Scripts\Composition Over Inheritance\WeaponBase.cs" />
@@ -792,6 +794,9 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>C:\Users\zeki4\Desktop\Unity_Projects\OOP_Tutorial\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>C:\Users\zeki4\Desktop\Unity_Projects\OOP_Tutorial\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
